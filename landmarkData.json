@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Lincoln Memorial",
+        "id": 1,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 38.889452291397404, "longitude": -77.05024037626612
+        },
+        "description": "The Washington Monument, the Lincoln Memorial, the World War II Memorial, the Vietnam Veterans Memorial, The Martin Luther King Jr. Memorial. The list goes on, and you may not get to them all in one day. Take your time and soak up the history.",
+        "imageName": "Lincoln-Memorial"
+    },
+    {
+        "name": "Nationals Park",
+        "id": 2,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.873185580648446, "longitude": -77.00745436092555
+        },
+        "description": "A ballgame at Nationals Park in Navy Yard is the perfect D.C. destination for all ages. At Capitol One Arena, you can catch an NBA game with the Wizards or an NHL game with the Capitals. At Audi Field, D.C. United takes the pitch in front of thousands of screaming soccer fans.",
+        "imageName": "Nationals_Park"
+    },
+    {
+        "name": "National Gallery of Art",
+        "id": 3,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 38.891456634210066, "longitude": -77.01994354558362
+        },
+        "description": "Art, creativity and humanity are on full display at the National Gallery of Art. From painting to films to music, the exhibits are always changing. Each visit offers something new to admire, so make it a regular part of your D.C. experience.",
+        "imageName": "nationalgalleryofart"
+    },
+    {
+        "name": "National Mall",
+        "id": 4,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "latitude": 38.88766469156933, "longitude": -77.03639340325434
+        },
+        "description": "They call it “America’s Front Yard.” The Mall spans over 1,000 acres of green space between the U.S. Capitol and the Lincoln Memorial. It is the site of everything from inaugurations and demonstrations to softball and kickball games where the locals let off steam. Bring a picnic or just wander and see all there is to see.",
+        "imageName": "National_Mall"
+    },
+    {
+        "name": "Georgetown",
+        "id": 5,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.90576788784075, "longitude": -77.06226297319101
+        },
+        "description": "Georgetown is one of D.C.’s most lively and historic neighborhoods. From the stunning architecture to the upscale shopping and dining, it’s always worth a visit. Make sure to leave time to stroll through the gorgeous Georgetown University campus.",
+        "imageName": "Georgetown"
+    },
+    {
+        "name": "US Botanic Garden",
+        "id": 6,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.888662862395414, "longitude": -77.01288330132866
+        },
+        "description": "A botanical garden was part of George Washington’s vision for the city more than 200 years ago, and he’d be in awe of what’s on display today. This living plant museum if filled with breathtaking flora and fauna. It’s a peaceful retreat in the heart of the city.",
+        "imageName": "usbotanicgarden"
+    },
+    {
+        "name": "National Zoo",
+        "id": 7,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.9298241524885, "longitude": -77.04977369156848
+        },
+        "description": "From the Abyssinian ground hornbill to the yellow-spotted Amazon river turtle, the National Zoo has animals covered from A to Z. Or at least Y. Of course, any trip to this zoo won’t be complete without a visit to see the pandas.",
+        "imageName": "nationalzoo"
+    },
+    {
+        "name": "American Museum of Natural History",
+        "id": 8,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 40.78159216153884, "longitude": -73.97398820318081
+        },
+        "description": "D.C. is home to some of the most incredible museums you’ll ever experience. You’ve got the classics: Air & Space, American History, Natural History. And many that are relatively new and definite must-sees: African American History and Culture, the National Museum of the American Indian.",
+        "imageName": "smithsonianmuseum"
+    },
+    {
+        "name": "Rock Creek Park",
+        "id": 9,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.967656288946664, "longitude": -77.04520796092193
+        },
+        "description": "The John F. Kennedy Center for the Performing Arts has put wonder, creativity, transformation and possibility center stage for more than a half-century. From Shakespeare to musical theater and much more, you’re sure to find a performance that leaves you in awe.",
+        "imageName": "rockcreekpark"
+    },
+    {
+        "name": "Kennedy Center",
+        "id": 10,
+        "city": "Washington, DC",
+        "state": "DC",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.89602352426759, "longitude": -77.0556719744187
+        },
+        "description": "The John F. Kennedy Center for the Performing Arts has put wonder, creativity, transformation and possibility center stage for more than a half-century. From Shakespeare to musical theater and much more, you’re sure to find a performance that leaves you in awe.",
+        "imageName": "kennedy-center-honors"
+    },
+    {
+        "name": "Ocean City Boardwalk",
+        "id": 11,
+        "city": "Ocean City, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 39.27794067225242, "longitude": -74.56360620323953
+        },
+        "description": "Mid-Atlantic beach culture is on full display along the Ocean City Boardwalk. Stroll for miles and miles as the sound of ocean waves fills your ears. The people-watching is unmatched. And so are the French fries and funnel cakes.",
+        "imageName": "OC-Boardwalk"
+    },
+    {
+        "name": "M&T Bank Stadium",
+        "id": 12,
+        "city": "Baltimore, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 39.27815367174745, "longitude": -76.62279023392196
+        },
+        "description": "You never have to look far to cheer on the local teams. In the Baltimore area, catch an Orioles game at Camden Yards or a Ravens game at M&T Bank Stadium. Just outside of D.C., in Prince George’s County, you can watch NFL action with the Washington Commanders or college games with the Maryland Terrapins.",
+        "imageName": "mtstadium"
+    },
+    {
+        "name": "Harriet Tubman Underground Railroad National Historical Park",
+        "id": 13,
+        "city": "Church Creek, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.4551785903644, "longitude": -76.13807398575752
+        },
+        "description": "Located amid the landscapes where Tubman lived and toiled, the unspoiled scenes in the area look much as they would have in Tubman’s time. The Tubman Visitor Center features engaging, enlightening multimedia exhibits about her life. It is part of the Harriet Tubman Underground Railroad Byway, a scenic, self-guided driving tour that includes 36 sites related to Tubman and the Underground Railroad on Maryland’s Eastern Shore, with more sites in Delaware leading to Philadelphia.",
+        "imageName": "harriettubman"
+    },
+    {
+        "name": "Naval Academy",
+        "id": 14,
+        "city": "Annapolis, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.98217521234334, "longitude": -76.48379906857218
+        },
+        "description": "Many of America’s greatest military leaders have walked the grounds of the U.S. Naval Academy in Annapolis. It’s filled with history, and it also happens to be one of the most beautiful college campuses in the nation. No trip to Annapolis is complete without a visit.",
+        "imageName": "navalacademy"
+    },
+    {
+        "name": "Inner Harbor",
+        "id": 15,
+        "city": "Baltimore, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 39.286354748155404, "longitude": -76.61302464894369
+        },
+        "description": "Once a center of shipbuilding and steel mills, the Inner Harbor has been transformed into one of Baltimore’s most lively and welcoming destinations. Shopping, dining, museums and nightlife. It’s all here to be explored.",
+        "imageName": "inner-harbor"
+    },
+    {
+        "name": "Annapolis City Dock",
+        "id": 16,
+        "city": "Annapolis, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.977744281778115, "longitude": -76.48596670325095
+        },
+        "description": "The City Dock is the historic heart of Maryland’s capital city. Stroll down the cobblestone streets, flanked by local shops and boutiques. Then arrive at the dock where everything from fishing boats to yachts are tied. It’s also a great place to hop aboard and enjoy a Chesapeake Bay boat tour.",
+        "imageName": "annapoliscitydock"
+    },
+    {
+        "name": "Chesapeake Bay Maritime Museum",
+        "id": 17,
+        "city": "St. Michaels, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.78854533835435, "longitude": -76.22517438976404
+        },
+        "description": "A must-see stop in the idyllic Eastern Shore town of St. Michaels, the Chesapeake Bay Maritime Museum is dedicated to preserving and exploring the history, environment, and culture of the entire Chesapeake Bay region.",
+        "imageName": "maritimemuseum"
+    },
+    {
+        "name": "National Harbor",
+        "id": 18,
+        "city": "Fort Washington, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.78274598798305, "longitude": -77.01483609771243
+        },
+        "description": "One of the newer D.C.-area destinations, National Harbor sits along the Potomac River in Maryland’s Prince George’s County. It’s filled with shops, restaurants, hotels and more. The kids will love a ride on the Capital Wheel, and the adults will find their playground at MGM National Harbor.",
+        "imageName": "nationalharbor"
+    },
+    {
+        "name": "St. Mary's City",
+        "id": 19,
+        "city": "St. Mary's City, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.18820481581066, "longitude": -76.43443322481188
+        },
+        "description": "Located deep in Southern Maryland, St. Mary’s City was Maryland’s first colonial settlement. Today, it is a trip back in time. It’s one of America’s premier historical sites and a living museum that takes you back to our nation’s earliest days.",
+        "imageName": "stmaryscity"
+    },
+    {
+        "name": "Deep Creek Lake",
+        "id": 20,
+        "city": "Oakland, MD",
+        "state": "Maryland",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 39.51555286512872, "longitude": -79.31537558552556
+        },
+        "description": "Whether you love the mountains or the water, you can find just what you’re looking for at Deep Creek Lake in Western Maryland. It’s the perfect getaway for lovers of outdoor fun. Relax and enjoy nature or head out for boating, skiing or hiking adventures.",
+        "imageName": "deepcreeklake"
+    },
+    {
+        "name": "Colonial Williamsburg",
+        "id": 21,
+        "city": "Williamsburg, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 37.27925800946331, "longitude": -76.69863036098484
+        },
+        "description": "Time travel back to colonial days. Enjoy a carriage ride through town or take in the fife and drum show. Colonial Williamsburg is entertaining, educational and endless fun. Every visit reveals something new to love.",
+        "imageName": "williamsburg"
+    },
+    {
+        "name": "Richmond Raceway",
+        "id": 22,
+        "city": "Richmond, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 37.58851758921342, "longitude": -77.42199108665856
+        },
+        "description": "Richmond Raceway offers great racing action and a commitment to the fan experience. One of the most popular facilities among drivers and fans in all of motorsports, Richmond Raceway hosts two weekends of NASCAR racing.",
+        "imageName": "RichmondRaceway"
+    },
+    {
+        "name": "Arlington National Cemetery",
+        "id": 23,
+        "city": "Arlington, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.877035418783386, "longitude": -77.07077497441948
+        },
+        "description": "A visit to Arlington National Cemetery is always a moving and inspring experience. The final resting place for American military heroes dating back to the Civil War, these 639 acres are hallowed grounds. Be sure to catch the changing of the guard at the Tomb of the Unknown Soldier.",
+        "imageName": "arlington"
+    },
+    {
+        "name": "Mount Vernon",
+        "id": 24,
+        "city": "Mount Vernon, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.710066246680654, "longitude": -77.08583584323773
+        },
+        "description": "On the banks of the Potomac River in Fairfax County, Mount Vernon is the plantation of George and Martha Washington. From the stunning grounds to the historic estate, it’s a treat to walk the same ground and imagine life as our first president once lived it.",
+        "imageName": "mountvernon"
+    },
+    {
+        "name": "Monticello",
+        "id": 25,
+        "city": "Charlottesville, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.00568669514108, "longitude": -78.45243882898792
+        },
+        "description": "Thomas Jefferson’s home at Monticello lies just a couple of hours south of our nation’s capital. Head to Charlottesville and experience life as one of our founding fathers lived it. Immaculately preserved and endlessly educational, it’s a must-see for anyone in the DMV.",
+        "imageName": "monticello"
+    },
+    {
+        "name": "Skyline Drive",
+        "id": 26,
+        "city": "Front Royal, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.90066076157816, "longitude": -78.19187231859505
+        },
+        "description": "One of America’s most scenic drives, Skyline Drive spans 105 miles along the Blue Ridge Mountains. Filled with scenic overlooks, it is the only public road running through Shenandoah National Park. Skyline Drive is gorgeous all year long, but it’s especially beautiful in the fall.",
+        "imageName": "Skyline Dr"
+    },
+    {
+        "name": "Luray Caverns",
+        "id": 27,
+        "city": "Luray, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.664694639548145, "longitude": -78.48315655908627
+        },
+        "description": "Do you know the difference between a stalagmite and a stalactite? You will once you’ve visited Luray Caverns, the largest caverns in the eastern United States. Less than two hours from D.C., the caverns are a natural wonder waiting to be explored.",
+        "imageName": "luraycaverns"
+    },
+    {
+        "name": "Virginia Beach",
+        "id": 28,
+        "city": "Virginia Beach, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 36.88405423553419, "longitude": -75.98196600137449
+        },
+        "description": "Virginia’s premier beachfront destination lies where the Chesapeake Bay meets the Atlantic Ocean. It’s vibrant, yet not overcrowded. It’s as welcoming during the festive holiday season as it is during the peak of beach season. Endless arts, entertainment and culinary delights await.",
+        "imageName": "virginiabeach"
+    },
+    {
+        "name": "King's Dominion",
+        "id": 29,
+        "city": "Doswell, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 37.840048901933294, "longitude": -77.44416974562297
+        },
+        "description": "Roller coasts, virtual reality rides and a massive water park. King’s Dominion has it all. This theme park is a favorite of generations of DMV locals, and your family is going to look forward to every fun-filled visit.",
+        "imageName": "kingsdominion"
+    },
+    {
+        "name": "Old Town Alexandria",
+        "id": 30,
+        "city": "Alexandria, VA",
+        "state": "Virginia",
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "latitude": 38.807909310247545, "longitude": -77.04242320159388
+        },
+        "description": "Known to locals simply as Old Town, these charming city streets blend a fun, historic vibe with all the trendy shopping and dining experiences you can imagine. Located along the Potomac River just across from D.C. and Maryland, it’s easily accessible and endlessly enjoyable.",
+        "imageName": "oldtown"
+    }
+]
